@@ -36,3 +36,5 @@ jobs:
           echo test, and deploy your project.
       - name: Extra proses'
         run: date
+      - name: Nama proses'
+        run: kresna.py
