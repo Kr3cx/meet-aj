@@ -37,4 +37,4 @@ jobs:
       - name: Extra proses'
         run: date
       - name: Nama proses'
-        run: python kresna.py
+        run: python kresna1.py
